@@ -22,6 +22,7 @@
 
 
 ### Tecnologías conocidas 
+****
 <table><tr><td valign="center" width="33%">
 
 
