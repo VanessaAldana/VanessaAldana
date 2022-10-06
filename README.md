@@ -21,7 +21,7 @@
 <br/>  
 
 
-### Tecnologías conocidas 
+### Conocimientos 
 ****
 <table><tr><td valign="center" width="33%">
 
