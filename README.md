@@ -29,7 +29,7 @@
 </td><td valign="top" width="33%">
 
 
-
+<div align="center"> 
 ### Tecnologías conocidas  
 ****  
   
@@ -49,7 +49,7 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>  
-
+  </div>
   
 
 
