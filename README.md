@@ -31,7 +31,7 @@
 
 
 
-### Tecnologías conocidas  
+###   
 ****  
   
 
