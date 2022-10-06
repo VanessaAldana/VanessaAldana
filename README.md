@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+### Tecnologías conocidas 
 <table><tr><td valign="top" width="33%">
 
 
